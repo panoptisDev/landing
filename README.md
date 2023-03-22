@@ -1,3 +1,5 @@
+![alt text](https://iili.io/HhctyIs.png)
+
 <p align="center">
   <img src="./assets/meilisearch-landing-light.png?sanitize=true#gh-light-mode-only">
   <img src="./assets/meilisearch-landing-dark.png?sanitize=true#gh-dark-mode-only">
